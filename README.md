@@ -1,24 +1,18 @@
 # I'm Dario Sanchez
 
-### Blockchain Developer · Smart Contract Security Researcher
+### Blockchain Developer & Smart Contract Security Researcher
 
-I build and study decentralized systems, with a focus on **smart contracts, blockchain infrastructure, and protocol security**.
-
-Currently going deeper into **Solidity, Rust, DeFi security, zero-knowledge systems, and blockchain infrastructure**.
+Genuinely passionate about blockchain because of what decentralization can give to society.
 
 ---
 
 ## 🔐 What I'm Into
 
-* Smart contract security & auditing
-* DeFi protocols & economic attack surfaces
+* Rust / Solidity smart contracts
+* Smart contract security
+* DeFi & protocol security
 * Blockchain infrastructure
-* Rust-based smart contracts
-* Zero-knowledge proofs & privacy
-* Protocol design
-* On-chain applications
-
-I like understanding not only **how protocols work**, but also **how they can fail**.
+* ZKP & privacy
 
 ---
 
@@ -26,25 +20,29 @@ I like understanding not only **how protocols work**, but also **how they can fa
 
 ### Languages
 
-`Solidity` `Rust` `TypeScript` `JavaScript` `Python`
+`Solidity` `Rust` `Python` `TypeScript` `JavaScript` `SQL`
 
-### Blockchain
+### Blockchains
 
-`Ethereum` `Stellar / Soroban` `Solana` `Algorand`
+`Ethereum` `Stellar` `Solana` `NEAR` `Algorand`
 
 ### Security & Development
 
-`Foundry` `Hardhat` `Scaffold-ETH` `OpenZeppelin`
+`Foundry` `Hardhat` `Fuzzing` `Invariant Testing` `Formal Verification`
 
-`Fuzzing` `Invariant Testing` `Formal Verification`
+### Security & Development
+
+`Codex` `Cursor` `Several SDKs and CLIs`
+
+### Infrastructure & Data
+
+`The Graph` · `Subgraphs` · `MySQL`
 
 ---
 
-## 🚀 Selected Work
+### 🏗️ Building Lance Protocol
 
-### 🏗️ Lancer Protocol
-
-Decentralized freelance marketplace infrastructure exploring:
+Decentralized freelance marketplace infrastructure with:
 
 * On-chain escrow
 * Decentralized dispute resolution
@@ -54,44 +52,13 @@ Decentralized freelance marketplace infrastructure exploring:
 
 ---
 
-### 🔐 Smart Contract Security
-
-Hands-on research and experimentation with DeFi and smart contract systems.
-
-Some of the protocols and concepts I've explored include:
-
-* Uniswap V3
-* Stablecoins
-* Lending protocols
-* Escrow systems
-* Governance
-* Oracle-dependent protocols
-* Smart contract vulnerabilities
-
----
-
-### ⭐ Stellar / Soroban
-
-Building on Stellar's smart contract platform and exploring:
-
-* Contract architecture
-* Authorization
-* Storage
-* Events
-* Testing
-* Privacy
-* Compliance infrastructure
-
----
-
 ## 🏆 Highlights
 
-* 🥇 Stellar ConstelAr 2025
-* 🥈 Stellar ZK Hackathon 2025
-* 🏆 NEAR hackathon
-* 🔐 Smart contract security research
-* 🦀 Rust & Soroban development
-* 🌐 Web3 development across multiple ecosystems
+* 🥇 6× 1st place in hackathons, inclusing Meridian 2025
+* 🥈 2× 2nd place in hackathons
+* 🔐 Valid security findings in 4 audit contests (Just starting)
+* 🌐 Experience across multiple blockchain ecosystems
+* 🎓 Bachelor's degree in Business Administration
 
 ---
 
@@ -99,45 +66,28 @@ Building on Stellar's smart contract platform and exploring:
 
 ```text
 Smart Contract Security
-├── DeFi attack patterns
+├── Attack patterns
 ├── Fuzzing & invariant testing
-├── Formal verification
-└── Protocol economics
+└── Formal verification
 
-Rust
-├── Systems programming
+Rust, Solidity and EVM
 ├── Blockchain infrastructure
 └── Smart contracts
 
 Zero Knowledge
-├── ZK primitives
-├── Privacy-preserving applications
-└── ZK infrastructure
+├── ZK primitives and infrastructure
+└── Privacy-preserving applications
 ```
 
 ---
 
-## 🧪 Things You'll Find Here
+## 🌎 More About Me
 
-This GitHub contains a mixture of:
+I have a background in Business Administration.
 
-**Experiments** - learning protocols by implementing simplified versions.
+Outside of tech, I'm very active. I've been training gym and kickboxing for more than 11 years.
 
-**Hackathon projects** - prototypes built around new blockchain infrastructure.
-
-**Security research** - exploring vulnerabilities, attack surfaces and protocol assumptions.
-
-**Production-oriented work** - projects intended to evolve beyond prototypes.
-
----
-
-## 🌎 A little more about me
-
-I'm an Argentine developer working at the intersection of **blockchain development and security**.
-
-I enjoy taking protocols apart, rebuilding simplified versions of them, and understanding the assumptions that make them work.
-
-I speak **Spanish, English, Portuguese and Italian**.
+I speak Spanish, English, Portuguese and Italian, and I'm currently learning Russian. Mandarin is next.
 
 ---
 
@@ -145,10 +95,10 @@ I speak **Spanish, English, Portuguese and Italian**.
 
 🐦 [X / Twitter](https://x.com/0xDarioSanchez)
 
-💼 [LinkedIn](https://www.linkedin.com/)
+💼 [LinkedIn](https://www.linkedin.com/in/dariofsanchez/)
 
 ---
 
 <p align="center">
-  <i>Build it. Break it. Understand it.</i>
+  <i>“I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party.”</i>
 </p>
