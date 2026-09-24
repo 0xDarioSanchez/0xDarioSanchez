@@ -26,13 +26,13 @@ Genuinely passionate about blockchain because of what decentralization can give 
 
 `Ethereum` `Stellar` `Solana` `NEAR` `Algorand`
 
-### Security & Development
+### Security
 
 `Foundry` `Hardhat` `Fuzzing` `Invariant Testing` `Formal Verification`
 
-### Security & Development
+### Tooling
 
-`Codex` `Cursor` `Several SDKs and CLIs`
+`Codex` `Cursor` `Git` `Several SDKs and CLIs`
 
 ### Infrastructure & Data
 
