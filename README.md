@@ -89,6 +89,8 @@ Outside of tech, I'm very active. I've been training gym and kickboxing for more
 
 I speak Spanish, English, Portuguese and Italian, and I'm currently learning Russian. Mandarin is next.
 
+I like skulls because they remind me that most things are temporary.
+
 ---
 
 ## 🤝 Connect
