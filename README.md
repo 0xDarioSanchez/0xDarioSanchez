@@ -36,7 +36,7 @@ Genuinely passionate about blockchain because of what decentralization can give 
 
 ### Infrastructure & Data
 
-`The Graph` · `Subgraphs` · `MySQL`
+`The Graph` `Subgraphs` `MySQL`
 
 ---
 
@@ -46,7 +46,7 @@ Decentralized freelance marketplace infrastructure with:
 
 * On-chain escrow
 * Decentralized dispute resolution
-* Game-theoretic voting
+* Game-theoretic voting with privacy
 * Stablecoin payments
 * Programmable marketplace infrastructure
 
@@ -54,7 +54,7 @@ Decentralized freelance marketplace infrastructure with:
 
 ## 🏆 Highlights
 
-* 🥇 6× 1st place in hackathons, inclusing Meridian 2025
+* 🥇 6× 1st place in hackathons, including Meridian 2025
 * 🥈 2× 2nd place in hackathons
 * 🔐 Valid security findings in 4 audit contests (Just starting)
 * 🌐 Experience across multiple blockchain ecosystems
