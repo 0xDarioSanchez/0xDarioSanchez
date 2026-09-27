@@ -10,7 +10,7 @@ Genuinely passionate about blockchain because of what decentralization can give 
 * Rust / Solidity smart contracts
 * Smart contract security
 * Blockchain infrastructure
-* ZKP & privacy
+* ZK & privacy
 
 
 ### 🏗️ Building Lance Protocol
@@ -32,6 +32,6 @@ Decentralized freelance marketplace infrastructure with:
 * 🎓 Bachelor's degree in Business Administration
 
 
-🐦 [X / Twitter](https://x.com/0xDarioSanchez)
+🐦 [X](https://x.com/0xDarioSanchez)
 
 💼 [LinkedIn](https://www.linkedin.com/in/dariofsanchez/)
