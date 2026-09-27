@@ -4,7 +4,6 @@
 
 Genuinely passionate about blockchain because of what decentralization can give to society.
 
----
 
 ## 🔐 What I'm Into
 
@@ -13,7 +12,6 @@ Genuinely passionate about blockchain because of what decentralization can give 
 * Blockchain infrastructure
 * ZKP & privacy
 
----
 
 ### 🏗️ Building Lance Protocol
 
@@ -24,7 +22,6 @@ Decentralized freelance marketplace infrastructure with:
 * Game-theoretic voting with privacy
 * Programmable marketplace infrastructure
 
----
 
 ## 🏆 Highlights
 
@@ -34,10 +31,7 @@ Decentralized freelance marketplace infrastructure with:
 * 🌐 Experience across multiple blockchain ecosystems
 * 🎓 Bachelor's degree in Business Administration
 
----
 
 🐦 [X / Twitter](https://x.com/0xDarioSanchez)
 
 💼 [LinkedIn](https://www.linkedin.com/in/dariofsanchez/)
-
----
