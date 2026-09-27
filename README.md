@@ -30,8 +30,3 @@ Decentralized freelance marketplace infrastructure with:
 * 🔐 Valid security findings in 4 audit contests (Just starting)
 * 🌐 Experience across multiple blockchain ecosystems
 * 🎓 Bachelor's degree in Business Administration
-
-
-🐦 [X](https://x.com/0xDarioSanchez)
-
-💼 [LinkedIn](https://www.linkedin.com/in/dariofsanchez/)
