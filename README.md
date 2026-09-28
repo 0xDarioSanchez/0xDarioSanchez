@@ -10,7 +10,7 @@ Genuinely passionate about blockchain because of what decentralization can give 
 * Rust / Solidity smart contracts
 * Smart contract security
 * Blockchain infrastructure
-* ZK & privacy
+* ZK, privacy and compliance
 
 
 ### 🏗️ Building Lance Protocol
