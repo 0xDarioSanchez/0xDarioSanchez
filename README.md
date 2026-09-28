@@ -20,7 +20,7 @@ Decentralized freelance marketplace infrastructure with:
 * On-chain escrow
 * Decentralized dispute resolution
 * Game-theoretic voting with privacy
-* Programmable marketplace infrastructure
+* Fully configurable service terms
 
 
 ## 🏆 Highlights
