@@ -7,9 +7,8 @@ Genuinely passionate about blockchain because of what decentralization can give 
 
 ## 🔐 What I'm Into
 
-* Rust / Solidity smart contracts
+* Rust and Solidity smart contracts
 * Smart contract security
-* Blockchain infrastructure
 * ZK, privacy and compliance
 
 
