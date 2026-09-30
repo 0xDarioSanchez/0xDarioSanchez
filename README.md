@@ -12,7 +12,7 @@ Genuinely passionate about blockchain because of what decentralization can give 
 * ZK, privacy and compliance
 
 
-### 🏗️ Building Lance Protocol
+### 🏗️ Building Lance Protocol on Stellar
 
 Decentralized freelance marketplace with:
 
