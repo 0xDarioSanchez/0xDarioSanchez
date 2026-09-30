@@ -14,9 +14,9 @@ Genuinely passionate about blockchain because of what decentralization can give 
 
 ### 🏗️ Building Lance Protocol
 
-Decentralized freelance marketplace infrastructure with:
+Decentralized freelance marketplace with:
 
-* On-chain escrow
+* On-chain escrows
 * Decentralized dispute resolution
 * Game-theoretic voting with privacy
 * Fully configurable service terms
