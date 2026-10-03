@@ -22,7 +22,7 @@ Decentralized freelance marketplace with:
 * Fully configurable service terms
 
 
-## 🏆 Highlights
+## [Highlights]
 
 * 🥇 6× 1st place in hackathons, including Meridian 2025
 * 🥈 2× 2nd place in hackathons
