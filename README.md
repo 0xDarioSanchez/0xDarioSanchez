@@ -26,6 +26,6 @@ Decentralized freelance marketplace with:
 
 * 🥇 6× 1st place in hackathons, including Meridian 2025
 * 🥈 2× 2nd place in hackathons
-* 🔐 Valid security findings in 4 audit contests (Just starting)
+* 🔐 Valid security findings in 4 audit contests
 * 🌐 Experience across multiple blockchain ecosystems
 * 🎓 Bachelor's degree in Business Administration
