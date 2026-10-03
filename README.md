@@ -5,14 +5,14 @@
 Genuinely passionate about blockchain because of what decentralization can give to society.
 
 
-## 🔐 What I'm Into
+## * What I'm Into
 
 * Rust and Solidity smart contracts
 * Smart contract security
 * ZK, privacy and compliance
 
 
-### 🏗️ Building Lance Protocol on Stellar
+### * Building Lance Protocol on Stellar
 
 Decentralized freelance marketplace with:
 
@@ -22,7 +22,7 @@ Decentralized freelance marketplace with:
 * Fully configurable service terms
 
 
-## [Highlights]
+## * Highlights
 
 * 🥇 6× 1st place in hackathons, including Meridian 2025
 * 🥈 2× 2nd place in hackathons
