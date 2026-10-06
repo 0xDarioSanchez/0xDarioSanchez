@@ -18,8 +18,9 @@ Decentralized freelance marketplace with:
 
 * On-chain escrows
 * Decentralized dispute resolution
-* Game-theoretic voting with private votes
-* Highly configurable service terms
+* Decentralized voting system in case of disputed
+* Private votation process
+* Fully configurable service terms
 
 
 ## 🏆 Highlights
